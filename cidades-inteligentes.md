@@ -1,6 +1,5 @@
 # Cenário da IoT no Brasil para cidades inteligentes
-*29 de abril de 2019*
-
+*29 de abril de 2019*\
 *Por Poliana de Moraes*
 
 **Conheça as principais tecnologias utilizadas no mercado brasileiro de Internet das Coisas (IoT), aplicadas a serviços urbanos.**
