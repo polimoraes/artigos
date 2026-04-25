@@ -1,6 +1,6 @@
 # Como tomar decisão de qual método você autentica e autoriza um acesso do ponto de vista de segurança
 *20 de abril de 2026*\
-*Por Poliana Moraes
+*Por Poliana Moraes*
 
 Quando o assunto é autenticação e autorização, falamos muito de OAuth, JWT e chaves de AP, que muitas vezes podem parecer sinônimos mas não são. Cada um resolve um problema diferente e escolher o errado cria riscos que você só percebe quando já é tarde demais.
 
