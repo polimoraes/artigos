@@ -1,6 +1,5 @@
 # A era digital e os ataques cibernéticos
-*03 de junho de 2019*
-
+*03 de junho de 2019*\
 *Por Poliana de Moraes*
 
 Atualmente as organizações em todo o mundo confiam na tecnologia digital para armazenar uma grande quantidade de dados e os transmitem pela rede, tornando este ambiente com um alto valor agregado. Este cenário está se expandindo rapidamente e o mundo está cada vez mais conectado. Com o advento da internet das coisas, estima-se que aproximadamente 20 milhões de objetos serão conectados à rede até 2021, o que aumenta consideravelmente a probabilidade de ataques no ambiente cibernético. 
