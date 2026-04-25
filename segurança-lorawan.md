@@ -1,6 +1,5 @@
-# Como o protocolo LoRaWAN garante a segurança dos dados.
-*20 de maio de 2019*
-
+# Como o protocolo LoRaWAN garante a segurança dos dados
+*20 de maio de 2019*\
 *Por Poliana de Moraes*
 
 No artigo anterior apresentamos o protocolo LoRaWAN, neste artigo temos como objetivo demonstrar suas propriedades que buscam garantir a segurança dos dados.
