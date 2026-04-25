@@ -28,6 +28,6 @@ Neste contexto, a NB-IoT é mais indicada para aplicações que necessitam de al
 
 Você conhece alguma aplicação no Brasil destas tecnologias? 
 
-*Artigo publicado no RFID Journal Brasil: brasil.rfidjournal.com/artigos/vision?18530*
+*Artigo publicado no RFID Journal Brasil:* https://www.rfidjournal.com/expert-views/iot-smart-cities-scenario/
 
 #projeto #IoT #inovação
