@@ -34,6 +34,8 @@ A rede LoRa é formada pela conexão de um grande número de dispositivos.  É a
 
 Cada componente tem sua função específica no sistema:
 
+![](figuras/rede-LoRaWAN.avif)
+
 + Dispositivos:  responsáveis por coletar e transmitir os dados na rede.  Eles podem ser móveis ou fixos.
 
 + Gateway: responsáveis por transferirem as mensagens dos dispositivos ao servidor de rede correspondente.
