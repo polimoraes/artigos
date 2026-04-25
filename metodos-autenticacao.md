@@ -17,5 +17,8 @@ Aplicação: Projetado para acesso delegado e integrações com terceiros. Permi
 
 Analisando o problema e contexto, podemos chegar a melhor solução, abaixo envio um diagrama com mais detalhes.
 
-Ainda ficou alguma dúvida a respeito destas tecnologias? Você quer que eu acrescente outra tecnologia nesta lista para comparação? Me envie aqui que respondo?
+Ainda ficou alguma dúvida a respeito destas tecnologias? 
 
+Você quer que eu acrescente outra tecnologia nesta lista para comparação? Me envie aqui que respondo?
+
+#autenticação #chavesAPI #JWT #OAuth
