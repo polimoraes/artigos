@@ -7,7 +7,7 @@
 
 A Internet das Coisas (IoT) atravessa atualmente um crescimento exponencial ao redor do mundo. No Brasil, o novo marco legal de Ciência, Tecnologia e Inovação, instituído em 2018, favorece ainda mais este cenário. As áreas de investimento prioritários no país definidas pelo Plano Nacional de IoT são saúde, cidades inteligentes, agricultura e indústrias.
 
-!(figuras/IoT.avif)
+![](figuras/IoT.avif)
 
 Cidades inteligentes necessitam de redes de comunicação de longa distância. No mercado brasileiro, observa-se que três tecnologias emergem e passam por uma rápida expansão. São elas LoRa, Sigfox e NB-IoT, que são oferecidas por diferentes operadoras.
 
